@@ -1,0 +1,13 @@
+.app {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: pink;
+  margin: 0 auto;
+  padding: 40px;
+  height: 100%;
+  background-image: url("../../assets/background-photo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  justify-content: space-between;
+  align-items: flex-start;
+}

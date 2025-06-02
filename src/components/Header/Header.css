@@ -1,0 +1,13 @@
+.header {
+  display: inline-block;
+  justify-content: right;
+  align-items: flex-start;
+  background-color: transparent;
+}
+
+.header__title {
+  padding: 0 0 20px 0;
+  margin: 0;
+  font-size: 56px;
+  color: white;
+}
