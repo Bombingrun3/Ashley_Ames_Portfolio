@@ -1,6 +1,5 @@
 .app {
   font-family: Helvetica, Arial, sans-serif;
-  background-color: pink;
   margin: 0 auto;
   padding: 40px;
   height: 100%;
@@ -10,4 +9,5 @@
   background-repeat: no-repeat;
   justify-content: space-between;
   align-items: flex-start;
+  color: white;
 }

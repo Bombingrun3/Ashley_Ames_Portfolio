@@ -20,3 +20,40 @@
   margin: 0;
   font-size: 24px;
 }
+
+.main__button_container {
+  padding-top: 30px;
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+}
+
+.main__button_videos {
+  background-color: transparent;
+  width: 130px;
+  height: 50px;
+  font-size: 20px;
+  border: 1px solid orange;
+  color: orange;
+  border-radius: 2px;
+}
+
+.main__button_videos:hover {
+  background-color: orange;
+  color: white;
+}
+
+.main__button_contact {
+  background-color: transparent;
+  width: 130px;
+  height: 50px;
+  font-size: 20px;
+  border: 1px solid orange;
+  color: orange;
+  border-radius: 2px;
+}
+
+.main__button_contact:hover {
+  background-color: orange;
+  color: white;
+}
